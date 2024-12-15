@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 import static code.Ex1.*;
 
+//itiel halevi 329522411
 
 /**
  * Intro2CS, Ex1 - Main class for interacting with the user.
